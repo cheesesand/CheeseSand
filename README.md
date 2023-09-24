@@ -18,12 +18,6 @@
 </ui>
 </details>
 
-<ul>
-
-  [<img src="res/치즈샌드_디스코드.png" width="48px"></img>](https://discord.gg/U6squ2hbyp)
-  [<img src="res/CHEESESAND_ONLINE.png" width="48px"></img>](https://discord.com/df7xkSqyDP)
-</ui>
-
 <details><summary>⚙️ 프로그래밍 언어</summary>
 <ul>
 <li>
