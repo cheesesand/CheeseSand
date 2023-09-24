@@ -22,10 +22,10 @@
 </details>
 
 <details><summary>⛏️ 마인크래프트</summary>
-  <ul class='no_dot'>
+  <ul list-style-type = none>
     <li>
       <details><summary>서버</summary>
-        <ul class='no_dot'>
+        <ul list-style-type = "none">
           <li><p>test 1</p></li>
           <li><p>test 2</p></li>
           <li><p>test 3</p></li>
@@ -34,7 +34,7 @@
     </li>
     <li>
       <details><summary>프로젝트</summary>
-        <ul class='no_dot'>
+        <ul list-style-type = "none">
           <li><p>test 1</p></li>
           <li><p>test 2</p></li>
           <li><p>test 3</p></li>
