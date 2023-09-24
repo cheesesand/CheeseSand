@@ -6,6 +6,11 @@
   [![](https://img.shields.io/badge/-CheeseSand-FF0000?style=for-the-badge&logo=Youtube&logoColor=fcfcfc)](https://www.youtube.com/@CheeseSand)
 </div>
 
-<details><summary>📓test</summary>
-
+<details><summary>마인크래프트</summary>
+  <details><summary>서버</summary>
+    <p>준비중</p>
+  </details>
+  <details><summary>프로젝트</summary>
+    <p>준비중</p>
+  </details>
 </details>
