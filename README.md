@@ -17,7 +17,6 @@
 
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=fcfcfc)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=fcfcfc)
-  ![Java](https://img.shields.io/badge/Java-FF6600?style=for-the-badge&logo="https://cdn.discordapp.com/attachments/832987591795408897/1155579319695970404/Java.svg"&logoColor=fcfcfc)
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=fcfcfc)
 </details>
 
