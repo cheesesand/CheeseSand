@@ -14,7 +14,7 @@
 
   [<img src="res/치즈샌드_디스코드.png" width="48px"></img>](https://discord.gg/U6squ2hbyp)
   [<img src="res/CHEESESAND_ONLINE.png" width="48px"></img>](https://discord.com/df7xkSqyDP)
-<li>
+</li>
 </ui>
 </details>
 
@@ -25,33 +25,35 @@
 </ui>
 
 <details><summary>⚙️ 프로그래밍 언어</summary>
+<ul>
+<li>
 
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=fcfcfc)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=fcfcfc)
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=fcfcfc)
+</li>
+</ui>
 </details>
 
 <details><summary>⛏️ 마인크래프트</summary>
-  <ul>
-    <li>
-      <details><summary>서버</summary>
-        <ul>
-          <li><p>test 1</p></li>
-          <li><p>test 2</p></li>
-          <li><p>test 3</p></li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details><summary>프로젝트</summary>
-        <ul>
-          <li><p>test 1</p></li>
-          <li><p>test 2</p></li>
-          <li><p>test 3</p></li>
-        </ul>
-      </details>
-    </li>
-  </ul>
+<ul>
+
+<li><details><summary>서버</summary>
+<ul>
+  <li><p>test 1</p></li>
+  <li><p>test 2</p></li>
+  <li><p>test 3</p></li>
+</ul>
+</details></li>
+<li><details><summary>프로젝트</summary>
+<ul>
+  <li><p>test 1</p></li>
+  <li><p>test 2</p></li>
+  <li><p>test 3</p></li>
+</ul>
+</details></li>
+
+</ul>
 </details>
 
 <details><summary>📑 상태</summary>
