@@ -8,7 +8,7 @@
 </div>
 
 <details><summary>💬 디스코드</summary>
-  
+
   [<img src="res/치즈샌드_디스코드.png" width="48px"></img>](https://discord.gg/U6squ2hbyp)
   [<img src="res/CHEESESAND_ONLINE.png" width="48px"></img>](https://discord.com/df7xkSqyDP)
 </details>
@@ -17,6 +17,7 @@
 
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=fcfcfc)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=fcfcfc)
+  ![Java](https://img.shields.io/badge/Java-FF6600?style=for-the-badge&logo="res/Java.svg"&logoColor=fcfcfc)
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=fcfcfc)
 </details>
 
