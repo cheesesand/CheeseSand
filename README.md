@@ -6,6 +6,11 @@
   [![](https://img.shields.io/badge/-CheeseSand-FF0000?style=for-the-badge&logo=Youtube&logoColor=fcfcfc)](https://www.youtube.com/@CheeseSand)
 </div>
 
+<details><summary>프로그래밍 언어</summary>
+  
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=F7DF1E)
+</details>
+
 <details><summary>마인크래프트</summary>
   <details><summary>서버</summary>
     <p>준비중</p>
