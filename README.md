@@ -7,7 +7,7 @@
   [![](https://img.shields.io/badge/-CheeseSand-FF0000?style=for-the-badge&logo=Youtube&logoColor=fcfcfc)](https://www.youtube.com/@CheeseSand)
 </div>
 
-<details><summary>프로그래밍 언어</summary>
+<details><summary>⚙️ 프로그래밍 언어</summary>
   
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=fcfcfc)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=fcfcfc)
