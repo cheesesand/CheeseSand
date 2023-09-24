@@ -8,6 +8,7 @@
 </div>
 
 <details><summary>💬 디스코드</summary>
+  
   [<img src="res/치즈샌드_디스코드.png" width="48px"></img>](https://discord.gg/U6squ2hbyp)
   [<img src="res/CHEESESAND_ONLINE.png" width="48px"></img>](https://discord.com/df7xkSqyDP)
 </details>
