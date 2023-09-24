@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="main.css" />
 <div align="center">
 
   # 치즈샌드.md
@@ -21,10 +22,10 @@
 </details>
 
 <details><summary>⛏️ 마인크래프트</summary>
-  <ul>
+  <ul class='no_dot'>
     <li>
       <details><summary>서버</summary>
-        <ul>
+        <ul class='no_dot'>
           <li><p>test 1</p></li>
           <li><p>test 2</p></li>
           <li><p>test 3</p></li>
@@ -33,7 +34,7 @@
     </li>
     <li>
       <details><summary>프로젝트</summary>
-        <ul>
+        <ul class='no_dot'>
           <li><p>test 1</p></li>
           <li><p>test 2</p></li>
           <li><p>test 3</p></li>
