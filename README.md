@@ -8,7 +8,7 @@
 </div>
 
 <details><summary>💬 디스코드</summary>
-<ul style="list-style-type: none;">
+<ul>
 
   [<img src="res/치즈샌드_디스코드.png" width="48px"></img>](https://discord.gg/U6squ2hbyp)
   [<img src="res/CHEESESAND_ONLINE.png" width="48px"></img>](https://discord.com/df7xkSqyDP)
@@ -16,7 +16,7 @@
 </details>
 
 <details><summary>⚙️ 프로그래밍 언어</summary>
-<ul style="list-style-type: none;">
+<ul>
 
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=fcfcfc)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=fcfcfc)
@@ -25,21 +25,21 @@
 </details>
 
 <details><summary>⛏️ 마인크래프트</summary>
-<ul style="list-style-type: none;">
+<ul>
 
-<li style="list-style-type: none;"><details><summary>서버</summary>
-<ul style="list-style-type: none;">
-  1. <p>test 1</p></li>
-  2. <p>test 2</p></li>
-  3. <p>test 3</p></li>
+<li><details><summary>서버</summary>
+<ul>
+  <p>test 1</p>
+  <p>test 2</p>
+  <p>test 3</p>
 </ul>
 </details></li>
 
-<li style="list-style-type: none;"><details><summary>프로젝트</summary>
-<ul style="list-style-type: none;">
-  <li style="list-style-type: none;"><p>test 1</p></li>
-  <li style="list-style-type: none;"><p>test 2</p></li>
-  <li style="list-style-type: none;"><p>test 3</p></li>
+<li><details><summary>프로젝트</summary>
+<ul>
+  <p>test 1</p>
+  <p>test 2</p>
+  <p>test 3</p>
 </ul>
 </details></li>
 
@@ -47,7 +47,7 @@
 </details>
 
 <details><summary>📑 상태</summary>
-<ul style="list-style-type: none;">
+<ul>
   
   [<img src="https://github-contribution-stats.vercel.app/api/?username=CheeseSand"></img>](https://github.com/CheeseSand)
   [<img src="https://github-readme-stats.vercel.app/api?username=CheeseSand&count_private=true&show_icons=true&include_all_commits=true"></img>](https://github.com/CheeseSand)
