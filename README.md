@@ -14,10 +14,10 @@
 </details>
 
 <details><summary>마인크래프트</summary>
-  <details><summary>서버</summary>
-    <p>준비중</p>
+  <details><summary>  서버</summary>
+    <p>    준비중</p>
   </details>
-  <details><summary>프로젝트</summary>
-    <p>준비중</p>
+  <details><summary>  프로젝트</summary>
+    <p>    준비중</p>
   </details>
 </details>
