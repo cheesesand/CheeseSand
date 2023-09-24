@@ -1,4 +1,9 @@
-<link rel="stylesheet" href="main.css" />
+<style>
+  .ulist {
+    list-style: none;
+  }
+</style>
+
 <div align="center">
 
   # 치즈샌드.md
@@ -9,7 +14,7 @@
 </div>
 
 <details><summary>💬 디스코드</summary>
-<ul>
+<ul class="ulist">
 <li>
 
   [<img src="res/치즈샌드_디스코드.png" width="48px"></img>](https://discord.gg/U6squ2hbyp)
@@ -19,7 +24,7 @@
 </details>
 
 <details><summary>⚙️ 프로그래밍 언어</summary>
-<ul>
+<ul class="ulist">
 <li>
 
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=fcfcfc)
@@ -30,17 +35,18 @@
 </details>
 
 <details><summary>⛏️ 마인크래프트</summary>
-<ul>
+<ul class="ulist">
 
 <li><details><summary>서버</summary>
-<ul>
+<ul class="ulist">
   <li><p>test 1</p></li>
   <li><p>test 2</p></li>
   <li><p>test 3</p></li>
 </ul>
 </details></li>
+
 <li><details><summary>프로젝트</summary>
-<ul>
+<ul class="ulist">
   <li><p>test 1</p></li>
   <li><p>test 2</p></li>
   <li><p>test 3</p></li>
