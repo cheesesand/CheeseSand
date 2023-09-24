@@ -13,6 +13,6 @@
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=fcfcfc)
 </details>
 
-<details><summary>마인크래프트</summary>
+<details><summary>⛏️ 마인크래프트</summary>
   <p>준비중  </p>
 </details>
