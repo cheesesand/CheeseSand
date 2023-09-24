@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" href="css/style.css">
 <div align="center">
 
   # 치즈샌드.md
@@ -26,21 +25,21 @@
 </details>
 
 <details><summary>⛏️ 마인크래프트</summary>
-<ul class="nodot">
+<ul style="list-style-type: none;">
 
-<li class="nodot"><details><summary>서버</summary>
-<ul class="nodot">
-  <li><p>test 1</p></li>
-  <li><p>test 2</p></li>
-  <li><p>test 3</p></li>
+<li style="list-style-type: none;"><details><summary>서버</summary>
+<ul style="list-style-type: none;">
+  <li style="list-style-type: none;"><p>test 1</p></li>
+  <li style="list-style-type: none;"><p>test 2</p></li>
+  <li style="list-style-type: none;"><p>test 3</p></li>
 </ul>
 </details></li>
 
-<li class="nodot"><details><summary>프로젝트</summary>
-<ul class="nodot">
-  <li><p>test 1</p></li>
-  <li><p>test 2</p></li>
-  <li><p>test 3</p></li>
+<li style="list-style-type: none;"><details><summary>프로젝트</summary>
+<ul style="list-style-type: none;">
+  <li style="list-style-type: none;"><p>test 1</p></li>
+  <li style="list-style-type: none;"><p>test 2</p></li>
+  <li style="list-style-type: none;"><p>test 3</p></li>
 </ul>
 </details></li>
 
