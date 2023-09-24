@@ -10,8 +10,8 @@
 <details><summary>💬 디스코드</summary>
 <ul style="list-style-type: none;">
 
-  [<img border-radius="20%" src="res/치즈샌드_디스코드.png" width="48px"></img>](https://discord.gg/U6squ2hbyp)
-  [<img border-radius="20%" src="res/CHEESESAND_ONLINE.png" width="48px"></img>](https://discord.com/df7xkSqyDP)
+  [<img src="res/치즈샌드_디스코드.png" width="48px"></img>](https://discord.gg/U6squ2hbyp)
+  [<img src="res/CHEESESAND_ONLINE.png" width="48px"></img>](https://discord.com/df7xkSqyDP)
 </ui>
 </details>
 
@@ -29,9 +29,9 @@
 
 <li style="list-style-type: none;"><details><summary>서버</summary>
 <ul style="list-style-type: none;">
-  <li style="list-style-type: none;"><p>test 1</p></li>
-  <li style="list-style-type: none;"><p>test 2</p></li>
-  <li style="list-style-type: none;"><p>test 3</p></li>
+  1. <p>test 1</p></li>
+  2. <p>test 2</p></li>
+  3. <p>test 3</p></li>
 </ul>
 </details></li>
 
