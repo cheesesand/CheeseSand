@@ -7,8 +7,8 @@
 </div>
 
 <details><summary>프로그래밍 언어</summary>
-  
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=F7DF1E)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=fcfcfc)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=fcfcfc)
 </details>
 
 <details><summary>마인크래프트</summary>
