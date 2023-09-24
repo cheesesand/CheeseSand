@@ -24,9 +24,11 @@
   <p>준비중</p>
 </details>
 
-<details><summary>📑 상태</summary>
-  
-[<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CheeseSand&theme=default"></img>](https://github.com/CheeseSand)
-[<img src="https://github-readme-stats.vercel.app/api?username=CheeseSand&count_private=true&show_icons=true&include_all_commits=true"></img>](https://github.com/CheeseSand)
-[<img src="https://github-contribution-stats.vercel.app/api/?username=CheeseSand"></img>](https://github.com/CheeseSand)
-</details>
+<div vertical-align="top">
+  <details><summary>📑 상태</summary>
+
+  [<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CheeseSand&theme=default"></img>](https://github.com/CheeseSand)
+  [<img src="https://github-contribution-stats.vercel.app/api/?username=CheeseSand"></img>](https://github.com/CheeseSand)
+  [<img src="https://github-readme-stats.vercel.app/api?username=CheeseSand&count_private=true&show_icons=true&include_all_commits=true"></img>](https://github.com/CheeseSand)
+  </details>
+</div>
