@@ -1,4 +1,4 @@
 <div align="center">
-  ![](https://dcbadge.vercel.app/api/shield/541524642662318080)
-  <a href="mailto:choijoung1479@gmail.com" target="_blank"><img src="https://img.shields.io/badge/choijoung1479@gmail.com-EA4335?
+  [![](https://img.shields.io/badge/-dev@alpha93.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=fcfcfc)](mailto:dev@alpha93.kr)
+  [![](https://dcbadge.vercel.app/api/shield/410763741786013697)](mailto:cheesesand)
 </div>
