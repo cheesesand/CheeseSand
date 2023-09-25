@@ -58,6 +58,7 @@
   <a href="https://discord.com/df7xkSqyDP"><img src="res/CHEESESAND_ONLINE.png" width="48px"></a>
 
   <br>
+  <br>
 
   <p><strong>• Socials •</strong></p>
 
