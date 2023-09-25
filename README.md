@@ -38,8 +38,8 @@
   </details>
 
   <details><summary>📑 상태</summary><br>
-    <a href="#"><img src="https://github-readme-stats-psi-topaz.vercel.app/api?username=CheeseSand&count_private=true&show_icons=true&bg_color=DEG,F2CD82FF,EDB950FF&text_color=d6d6d6&title_color=f0f0f0&icon_color=f0f0f0&locale=en&line_height=27&hide_border=true&border_radius=0"></a>
-    <a href="#"><img src="https://github-readme-stats-psi-topaz.vercel.app/api/top-langs/?username=CheeseSand&langs_count=3&count_private=false&show_icons=true&bg_color=DEG,F2CD82FF,EDB950FF&text_color=d6d6d6&title_color=f0f0f0&icon_color=f0f0f0&locale=en&hide_border=true&border_radius=0"></a>
+    <a href="#"><img src="https://github-readme-stats-psi-topaz.vercel.app/api?username=CheeseSand&count_private=true&show_icons=true&bg_color=DEG,EFA979FF,EDB950FF&text_color=d6d6d6&title_color=f0f0f0&icon_color=f0f0f0&locale=en&line_height=27&hide_border=true&border_radius=0"></a>
+    <a href="#"><img src="https://github-readme-stats-psi-topaz.vercel.app/api/top-langs/?username=CheeseSand&langs_count=3&count_private=false&show_icons=true&bg_color=DEG,EFA979FF,EDB950FF&text_color=d6d6d6&title_color=f0f0f0&icon_color=f0f0f0&locale=en&hide_border=true&border_radius=0"></a>
   </details>
 
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=50&fontAlignY=40&fontColor=e9e9e9&color=100:F2CD82FF,0:EDB950FF&section=footer"></a>
