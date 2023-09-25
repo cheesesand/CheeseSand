@@ -41,4 +41,6 @@
     <a href="https://github.com/CheeseSand"><img src="https://github-readme-stats.vercel.app/api?username=CheeseSand&count_private=true&show_icons=true&include_all_commits=true"></a>
     <a href="https://github.com/CheeseSand"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CheeseSand&theme=default"></a>
   </details>
+
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=240&fontSize=50&fontAlignY=40&fontColor=e9e9e9&color=100:F2CD82FF,0:EDB950FF&section=footer"></a>
 </div>
