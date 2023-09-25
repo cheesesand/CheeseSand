@@ -19,25 +19,25 @@
   </p>
   <br>
 
-  <details><summary>💬 디스코드</summary>
+  <details><summary>💬 디스코드</summary><br>
     <a href="https://discord.gg/U6squ2hbyp"><img src="res/치즈샌드_디스코드.png" width="48px"></a>
     <a href="https://discord.com/df7xkSqyDP"><img src="res/CHEESESAND_ONLINE.png" width="48px"></a>
   </details>
 
-  <details><summary>⚙️ 사용하는 프로그래밍 언어</summary>
+  <details><summary>⚙️ 사용하는 프로그래밍 언어</summary><br>
     <a href="mailto:C"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=fcfcfc"></a>
     <a href="mailto:Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=fcfcfc"></a>
     <a href="mailto:Java"><img src="https://img.shields.io/badge/JAVA-f56042?&logo=oracle&style=for-the-badge&logoColor=fcfcfc"></a>
     <a href="mailto:Kotlin"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=fcfcfc"></a>
   </details>
 
-  <details><summary>⛏️ 마인크래프트</summary>
+  <details><summary>⛏️ 마인크래프트</summary><br>
     <p>test 1</p>
     <p>test 2</p>
     <p>test 3</p>
   </details>
 
-  <details><summary>📑 상태</summary>
+  <details><summary>📑 상태</summary><br>
     <a href="#"><img src="https://github-readme-stats-psi-topaz.vercel.app/api?username=CheeseSand&count_private=true&show_icons=true&bg_color=DEG,4f4dff,de47cc&text_color=d6d6d6&title_color=f0f0f0&icon_color=f0f0f0&locale=en&line_height=27&hide_border=true&border_radius=0"></a>
     <a href="#"><img src="https://github-readme-stats-psi-topaz.vercel.app/api/top-langs/?username=CheeseSand&langs_count=3&count_private=false&show_icons=true&bg_color=DEG,4f4dff,de47cc&text_color=d6d6d6&title_color=f0f0f0&icon_color=f0f0f0&locale=en&hide_border=true&border_radius=0"></a>
   </details>
