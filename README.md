@@ -8,12 +8,12 @@
   <a href="https://youtube.com/@CheeseSand"><img src="https://img.shields.io/youtube/channel/subscribers/UCmfTIaIkh-W_zmQElX-RYMQ?color=red&label=youtube&logo=youtube&style=for-the-badge&logoColor=fcfcfc"></a>
   <br>
 
-  <p><strong>안녕하세요, 트위치 스트리머, 유튜브, 개발하는 치샌 입니다!</strong></p>
-  <p>🧀 관상용 과자 먹지 마시오 🧀</p>
+  <h2><strong>안녕하세요, 트위치 스트리머, 유튜브, 개발하는 치샌 입니다!</strong></h2>
+  <h2>🧀 관상용 과자 먹지 마시오 🧀</h2>
   <br>
 
   <p>
-    <p><strong>• Now •</strong></p>
+    <h3><strong>• Now •</strong></h3>
     <p>- <a href="https://cheesesand.kr"> CHEESESAND ONLINE </a> 개발자 및 관리자</p>
     <p>- <a href="https://github.com/CheeseSandTeam"> CHEESESAND 컨팀 </a> 총 관리자 및 개발자</p>
   </p>
