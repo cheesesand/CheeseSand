@@ -6,6 +6,13 @@
   <a href="mailto:cheesesand"><img src="https://dcbadge.vercel.app/api/shield/541524642662318080?theme=default-inverted"></a>
   <a href="https://twitch.tv/cheesesand_"><img src="https://img.shields.io/twitch/status/cheesesand_?color=%238142f5&logo=twitch&style=for-the-badge&logoColor=fcfcfc"></a>
   <a href="https://youtube.com/@CheeseSand"><img src="https://img.shields.io/youtube/channel/subscribers/UCmfTIaIkh-W_zmQElX-RYMQ?color=red&label=youtube&logo=youtube&style=for-the-badge&logoColor=fcfcfc"></a>
+  <br>
+
+  <p><string></string></p>
+
+  <p>
+    <p><string></string></p>
+  </p>
 </div>
 
 <details><summary>💬 디스코드</summary>
@@ -23,6 +30,10 @@
     <a href="mailto:Kotlin"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=fcfcfc"></a>
   </ul>
 </details>
+
+{% for i in 5 %}
+  <p>{{ i }}</p>
+{% endfor %}
 
 <details><summary>⛏️ 마인크래프트</summary>
   <ul>
