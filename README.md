@@ -24,7 +24,7 @@
     <a href="https://discord.com/df7xkSqyDP"><img src="res/CHEESESAND_ONLINE.png" width="48px"></a>
   </details>
 
-  <details><summary>⚙️ 프로그래밍 언어</summary>
+  <details><summary>⚙️ 사용하는 프로그래밍 언어</summary>
     <a href="mailto:C"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=fcfcfc"></a>
     <a href="mailto:Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=fcfcfc"></a>
     <a href="mailto:Java"><img src="https://img.shields.io/badge/JAVA-f56042?&logo=oracle&style=for-the-badge&logoColor=fcfcfc"></a>
