@@ -11,8 +11,12 @@
   <p><strong>안녕하세요, 트위치 스트리머, 유튜브, 개발하는 치샌 입니다!</strong></p>
   <p>🧀 관상용 과자 먹지 마시오 🧀</p>
 
+  <br>
+
   <p>
-    <p><strong></strong></p>
+    <p><strong>• Now •</strong></p>
+    <p>- <a href="https://cheesesand.kr"> CHEESESAND ONLINE </a> 개발자 및 관리자</p>
+    <p>- CHEESESAND 컨팀 총 관리자 및 개발자</p>
   </p>
 </div>
 
