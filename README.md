@@ -8,7 +8,8 @@
   <a href="https://youtube.com/@CheeseSand"><img src="https://img.shields.io/youtube/channel/subscribers/UCmfTIaIkh-W_zmQElX-RYMQ?color=red&label=youtube&logo=youtube&style=for-the-badge&logoColor=fcfcfc"></a>
   <br>
 
-  <p><string></string></p>
+  <p><string>안녕하세요, 트위치 스트리머, 유튜브, 개발하는 치샌 입니다!</string></p>
+  <p>🧀 관상용 과자 먹지 마시오 🧀</p>
 
   <p>
     <p><string></string></p>
@@ -30,10 +31,6 @@
     <a href="mailto:Kotlin"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=fcfcfc"></a>
   </ul>
 </details>
-
-{% for i in 5 %}
-  <p>{{ i }}</p>
-{% endfor %}
 
 <details><summary>⛏️ 마인크래프트</summary>
   <ul>
