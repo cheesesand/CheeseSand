@@ -20,6 +20,7 @@
 
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=fcfcfc)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=fcfcfc)
+  ![Java](https://img.shields.io/badge/JAVA-f56042?&logo=oracle&style=for-the-badge&logoColor=fcfcfc)
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=fcfcfc)
 </ui>
 </details>
