@@ -15,21 +15,12 @@
 
   <p>
     <p><strong>• Now •</strong></p>
-    <p>- <a href="https://cheesesand.kr"> CHEESESAND ONLINE </a> 개발자 및 관리자</p>
-    <p>- CHEESESAND 컨팀 총 관리자 및 개발자</p>
+    <li><a href="https://cheesesand.kr"> CHEESESAND ONLINE </a> 개발자 및 관리자</li>
+    <li>CHEESESAND 컨팀 총 관리자 및 개발자</li>
   </p>
 
-  <p>
-    <p><strong>• Now •</strong></p>
-    <p>- test</p>
-    <p>- 1</p>
-    <p>- 2</p>
-    <p>- 3</p>
-  </p>
-
+  <br>
 </div>
-
-<br>
 
 <details><summary>💬 디스코드</summary>
   <ul>
