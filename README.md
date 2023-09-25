@@ -15,8 +15,8 @@
 
   <p>
     <p><strong>• Now •</strong></p>
-    <p><a href="https://cheesesand.kr"> CHEESESAND ONLINE </a> 개발자 및 관리자</p>
-    <p>CHEESESAND 컨팀 총 관리자 및 개발자</p>
+    <p>- <a href="https://cheesesand.kr"> CHEESESAND ONLINE </a> 개발자 및 관리자</p>
+    <p>- CHEESESAND 컨팀 총 관리자 및 개발자</p>
   </p>
 
   <br>
