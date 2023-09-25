@@ -1,7 +1,7 @@
 <div align="center">
 
   # 치즈샌드.md
-  <a href="mailto:choijoung1479@gmail.com?subject=[GitHub] "><img src="https://img.shields.io/badge/Email-choijoung1479%40gmail.com-EA4335?&logo=gmail&style=for-the-badge&logoColor=fcfcfc"></a>
+  <a href="mailto:choijoung1479@gmail.com?subject=[GitHub] "><img src="https://img.shields.io/badge/Email-EA4335-choijoung1479%40gmail.com?&logo=gmail&style=for-the-badge&logoColor=fcfcfc"></a>
   <a href="mailto:cheesesand"><img src="https://dcbadge.vercel.app/api/shield/541524642662318080">
   <a href="https://twitch.tv/cheesesand_"><img src="https://img.shields.io/twitch/status/cheesesand_?color=%238142f5&logo=twitch&style=for-the-badge&logoColor=fcfcfc"></a>
   <a href="https://youtube.com/@CheeseSand"><img src="https://img.shields.io/youtube/channel/subscribers/UCmfTIaIkh-W_zmQElX-RYMQ?color=red&label=youtube&logo=youtube&style=for-the-badge&logoColor=fcfcfc"></a>
