@@ -27,21 +27,21 @@
 <details><summary>⛏️ 마인크래프트</summary>
 <ul>
 
-<li><details><summary>서버</summary>
+<details><summary>서버</summary>
 <ul>
   <p>test 1</p>
   <p>test 2</p>
   <p>test 3</p>
 </ul>
-</details></li>
+</details>
 
-<li><details><summary>프로젝트</summary>
+<details><summary>프로젝트</summary>
 <ul>
   <p>test 1</p>
   <p>test 2</p>
   <p>test 3</p>
 </ul>
-</details></li>
+</details>
 
 </ul>
 </details>
