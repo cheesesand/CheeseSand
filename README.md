@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=%E2%80%A2%20%20%EC%B9%98%EC%A6%88%EC%83%8C%EB%93%9C%20%E2%80%A2&fontSize=50&fontAlignY=40&fontColor=ffffff&color=0:F6BB43,100:F4863C">
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=%E2%80%A2%20%20%EC%B9%98%EC%A6%88%EC%83%8C%EB%93%9C%20%E2%80%A2&fontSize=50&fontAlignY=40&fontColor=fcfcfc&color=0:FF8C00,100:F46201">
 
   <a href="mailto:choijoung1479@gmail.com?subject=[GitHub] "><img src="https://img.shields.io/badge/Email-choijoung1479%40gmail.com-EA4335?&logo=gmail&style=for-the-badge&logoColor=fcfcfc"></a>
   <a href="mailto:cheesesand"><img src="https://dcbadge.vercel.app/api/shield/541524642662318080?theme=default-inverted"></a>
