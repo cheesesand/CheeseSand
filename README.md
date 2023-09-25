@@ -58,6 +58,8 @@
     <ul>
   </details>
 
+  <br>
+
   <p><strong>• Socials •</strong></p>
 
   <a href="mailto:choijoung1479@gmail.com?subject=[GitHub] "><img src="https://img.shields.io/badge/Email-choijoung1479%40gmail.com-EA4335?&logo=gmail&style=for-the-badge&logoColor=fcfcfc"></a>
