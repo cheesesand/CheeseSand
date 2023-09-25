@@ -15,13 +15,6 @@
 
   <br>
 
-  <details><summary>💬 디스코드</summary>
-    <ul>
-      <a href="https://discord.gg/U6squ2hbyp"><img src="res/치즈샌드_디스코드.png" width="48px"></a>
-      <a href="https://discord.com/df7xkSqyDP"><img src="res/CHEESESAND_ONLINE.png" width="48px"></a>
-    </ui>
-  </details>
-
   <details><summary>⚙️ 프로그래밍 언어</summary>
     <ul>
       <a href="mailto:C"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=fcfcfc"></a>
@@ -57,6 +50,12 @@
       <a href="https://github.com/CheeseSand"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CheeseSand&theme=default"></a>
     <ul>
   </details>
+
+  <br>
+
+  <p><strong>• Discord Server •</strong></p>
+  <a href="https://discord.gg/U6squ2hbyp"><img src="res/치즈샌드_디스코드.png" width="48px"></a>
+  <a href="https://discord.com/df7xkSqyDP"><img src="res/CHEESESAND_ONLINE.png" width="48px"></a>
 
   <br>
 
