@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%E2%80%A2%20%EC%B9%98%EC%A6%88%EC%83%8C%EB%93%9C%20%E2%80%A2&fontSize=50&fontAlignY=40&fontColor=e9e9e9&color=0:F2CD82FF,100:EDB950FF"></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%E2%80%A2%20%EC%B9%98%EC%A6%88%EC%83%8C%EB%93%9C%20%E2%80%A2&fontSize=50&fontAlignY=40&fontColor=e9e9e9&color=0:EFA979FF,100:EDB950FF"></a>
   <br>
 
   <a href="mailto:choijoung1479@gmail.com?subject=[GitHub] "><img src="https://img.shields.io/badge/Email-choijoung1479%40gmail.com-EA4335?&logo=gmail&style=for-the-badge&logoColor=fcfcfc"></a>
@@ -42,5 +42,5 @@
     <a href="#"><img src="https://github-readme-stats-psi-topaz.vercel.app/api/top-langs/?username=CheeseSand&langs_count=3&count_private=false&show_icons=true&bg_color=DEG,EFA979FF,EDB950FF&text_color=d6d6d6&title_color=f0f0f0&icon_color=f0f0f0&locale=en&hide_border=true&border_radius=0"></a>
   </details>
 
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=50&fontAlignY=40&fontColor=e9e9e9&color=100:F2CD82FF,0:EDB950FF&section=footer"></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=50&fontAlignY=40&fontColor=e9e9e9&color=100:EFA979FF,0:EDB950FF&section=footer"></a>
 </div>
