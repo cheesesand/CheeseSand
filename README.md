@@ -8,7 +8,7 @@
   <a href="https://youtube.com/@CheeseSand"><img src="https://img.shields.io/youtube/channel/subscribers/UCmfTIaIkh-W_zmQElX-RYMQ?color=red&label=youtube&logo=youtube&style=for-the-badge&logoColor=fcfcfc"></a>
   <br>
 
-  <font size="72px"><strong>안녕하세요, 트위치 스트리머, 유튜브, 개발하는 치샌 입니다!</strong></font>
+  <p><strong>안녕하세요, 트위치 스트리머, 유튜브, 개발하는 치샌 입니다!</strong></p>
   <p>🧀 관상용 과자 먹지 마시오 🧀</p>
   <br>
 
