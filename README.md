@@ -1,11 +1,10 @@
 <div align="center">
 
   # 치즈샌드.md
-  [![](https://img.shields.io/badge/-choijoung1479@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=fcfcfc)](mailto:choijoung1479@gmail.com)
-  [![](https://dcbadge.vercel.app/api/shield/541524642662318080)](mailto:cheesesand)
+  <a href="mailto:choijoung1479@gmail.com?subject=[GitHub] "><img src="https://img.shields.io/badge/Email-choijoung1479%40gmail.com-EA4335?&logo=gmail&style=for-the-badge&logoColor=fcfcfc"></a>
+  <a href="mailto:cheesesand"><img src="https://dcbadge.vercel.app/api/shield/541524642662318080">
   <a href="https://twitch.tv/cheesesand_"><img src="https://img.shields.io/twitch/status/cheesesand_?color=%238142f5&logo=twitch&style=for-the-badge&logoColor=fcfcfc"></a>
-  
-  [![](https://img.shields.io/badge/-CheeseSand-FF0000?style=for-the-badge&logo=Youtube&logoColor=fcfcfc)](https://www.youtube.com/@CheeseSand)
+  <a href="https://youtube.com/@CheeseSand"><img src="https://img.shields.io/youtube/channel/subscribers/@CheeseSand?color=red&label=youtube&logo=youtube&style=for-the-badge&logoColor=fcfcfc"></a>
 </div>
 
 <details><summary>💬 디스코드</summary>
