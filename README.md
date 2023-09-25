@@ -18,7 +18,18 @@
     <p>- <a href="https://cheesesand.kr"> CHEESESAND ONLINE </a> 개발자 및 관리자</p>
     <p>- CHEESESAND 컨팀 총 관리자 및 개발자</p>
   </p>
+
+  <p>
+    <p><strong>• Now •</strong></p>
+    <p>- test</p>
+    <p>- 1</p>
+    <p>- 2</p>
+    <p>- 3</p>
+  </p>
+
 </div>
+
+<br>
 
 <details><summary>💬 디스코드</summary>
   <ul>
