@@ -18,7 +18,6 @@
 
   <details><summary>⚙️ Language</summary><br>
     <a href="mailto:C"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=fcfcfc"></a>
-    <a href="mailto:Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=fcfcfc"></a>
     <a href="mailto:Java"><img src="https://img.shields.io/badge/JAVA-f56042?&logo=oracle&style=for-the-badge&logoColor=fcfcfc"></a>
     <a href="mailto:Kotlin"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=fcfcfc"></a>
   </details>
